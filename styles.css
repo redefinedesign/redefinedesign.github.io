@@ -1,0 +1,17 @@
+h1 {
+  font-size: 5em;
+  margin-bottom: 0.1em;
+}
+
+h2 {
+  margin: 0 0 2em 0;
+}
+
+.spaces {
+  margin: 5em 0;
+}
+
+.spaces div {
+  padding: 0.5em 0;
+  font-size: 1.2em;
+}
